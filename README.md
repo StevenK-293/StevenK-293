@@ -14,10 +14,14 @@
 <table><tr><td valign="top" width="50%">
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=StevenK-293&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center"/></div>  
 
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=StevenK-293&theme=dark" alt="YellowGreg" /></p>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/804953768814313482)](https://discord.com/users/804953768814313482)
 </td><td valign="top" width="50%">
   <img alt="DIPU's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenK-293&langs_count=8&theme=dark" align="left" style="width:100%"/>
-
 </td></tr></table>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=StevenK-293&theme=discord" alt="StevenK-293" /></a> </p>
 
 
 ![](https://komarev.com/ghpvc/?username=StevenK-293&style=plastic)
