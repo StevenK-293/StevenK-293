@@ -3,6 +3,8 @@
 
 - I’m looking to collaborate with **anyone**
 
+- Learning Computer Science 
+
 - 👨‍💻 All of my projects are available at [respitory](https://github.com/StevenK-293?tab=repositories)
 
 - 💬 Ask me about **Anything**
