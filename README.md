@@ -3,7 +3,7 @@
 ### I Love Food 🍔
 
 - Open to collaboration with **anyone**
-- Currently learning MongoDB, Luau, Python, &
+- Currently learning MongoDB, Luau, Python
 - Find all my projects on [GitHub](https://github.com/StevenK-293?tab=repositories)
 - Ask me about **Anything** 💬
 - Fun fact: **I enjoy exercising** ⚡
