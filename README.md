@@ -3,7 +3,7 @@
 ### I Love Food 🍔
 
 - Open to collaboration with **anyone**
-- Currently learning TypeScript
+- Hello im back after 2 months or 3 idk but hi
 - Find all my projects on [GitHub](https://github.com/StevenK-293?tab=repositories)
 - Ask me about **Anything** 💬
 - Fun fact: **I enjoy reading Manhwa, Manga, Manhua, and Anime** 
@@ -23,11 +23,5 @@
     </tr>
   </table>
 </details>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=StevenK-293&theme=discord" alt="StevenK-293" />
-  </a>
-</p>
 
 ![](https://komarev.com/ghpvc/?username=StevenK-293&style=plastic)
